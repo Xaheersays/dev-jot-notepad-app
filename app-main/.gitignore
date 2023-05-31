@@ -1,0 +1,5 @@
+/node_modules
+database.rules.json
+.idea
+.idea/workspace.xml
+.env
