@@ -7,38 +7,12 @@ link : https://dev-jot.netlify.app
 
 
 ## Project Purpose
-
-For those who are self-teaching, it's really easy to find yourself stuck in 'tutorial-land' or 'tutorial-hell'. For many newbie coders, it's difficult to bridge the gap between what you are learning from tutorials and acquiring the skills you **need** to become an employable developer.
-
-Your ultimate goal is to replicate what you’d actually do in a real development job as closely as possible. Contributing to open source is a fantastic way to do this. Making open source contributions will require you to have been exposed to a few important concepts, practices, and transferable skills:
-
+learn
 - Version control
-- Working with tickets & issues
-- Working with other developers
 - Creating pull requests
 - Experiencing a code review process
 - Setting up a local development environment
 - Contributing code to a pre-existing codebase
-
-## The General Idea
-
-This project acts as a friendly entry point into the open source world. Making your first open source contribution can be a daunting prospect that puts off a lot of aspiring developers.
-
-**The primary goal of this project is to create a welcoming and friendly environment to foster learning, to feel safe making mistakes, and to receive feedback and guidance whilst working with other developers.**
-
-The direction of the project will be led by those who contribute. There is scope to add a large variety of features and also to rebuild the app with different technologies.
-
-## Current State
-
-This is a no-thrills [CRUD application](https://www.codecademy.com/articles/what-is-crud). Lesson notes are currently stored in the browser's local storage. The purpose of the app is to enable those who are self-teaching to create a simple, clean store for all of their tutorial and lesson notes.
-
-There are two versions of the app. The main, default version is located within the `app-main` directory. This default version of the app is purely HTML, CSS and Vanilla JavaScript so there are learning opportunities for contributors to work with the fundamentals.
-
-The second version is built using React and is located within the `app-react` directory. This provides an opportunity for contributors who are looking to work with a front-end framework to get their hands dirty.
-
-Before contributing I highly recommend you play around with the [live version](https://dev-jot.netlify.app) and actually use it for some basic note-taking. What sucks about it? What could be improved? Have you spotted any bugs?
-
-The direction of the project will be determined by those who contribute. If you have some cool ideas for new features big or small then great! Just create an issue for discussion before doing so 😊 
 
 ## Project Set-Up
 
