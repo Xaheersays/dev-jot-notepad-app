@@ -1,7 +1,6 @@
 # dev-jot : https://dev-jot.netlify.app
 
-dev-jot is a note-taking app for online developer tutorials. The project is an MVP and has been created to help aspiring front-end developers
-
+dev-jot is a note-taking app for everyone bulit using vanilla JS,Vanilla CSS and HTML
 
 link : https://dev-jot.netlify.app
 
@@ -57,5 +56,4 @@ If you are unsure, please take a look at the [documentation](https://marketplace
 HTML, CSS, and JavaScript currently live within the `/app-main/public` directory. The main JavaScript is located within `index.js`.
 
 ## Contributing
-
-Please check out [CONTRIBUTING.md](https://github.com/jrobind/dev-jot/blob/master/CONTRIBUTING.md) for more information regarding how to contribute.
+feel free to make changes
